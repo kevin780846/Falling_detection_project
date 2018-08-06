@@ -13,7 +13,7 @@ Requirements:
 - model weights
 - Training and testing npy file
 - Four perspectives of video
-  Each perspectives contain: 1 training normal video, 1 testing normal video, 12 testing falling video
+  >Each perspectives contain: 1 training normal video, 1 testing normal video, 12 testing falling video
 - link: https://drive.google.com/open?id=1-U4gkkCs0tqajHScJKTO_-PNQCyy8MEG
 
 ## Python file explanation
